@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SweApp</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="logo">SWE Logo</string>
+    <string name="enter_email">Enter your eagle email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="create_Account">Don\'t have an account? Create a SWE account!</string>
+
+    <string name="event_title">Recent events</string>
+    <string name="event_post">Post 1</string>
+    <string name="going">I\'ll be there</string>
+    <string name="not_going">I can\'t go</string>
+    <string name="btn_calend">Calendar</string>
+    <string name="btn_star">PostPage</string>
+    <string name="btn_swetiespage">SWEties</string>
+
+    <string name="calendar_title">FGCU SWE Calendar</string>
+    <string name="today_title">Today</string>
+    <string name="list_events">List of Events</string>
+    <string name="btn_store">Store</string>
+
+    <string name="title_store">SWE Official Store</string>
+    <string name="img_swetshirt">SWE T-shirt</string>
+    <string name="img_nasatshirt">Nasa T-shirt</string>
+    <string name="btn_gocart">View Shopping Cart</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_add">Add</string>
+
+    <string name="title_cart">Your Cart</string>
+    <string name="btn_pay">Make Payment</string>
+    <string name="txt_mod">Modify</string>
+    <string name="txt_remove">Remove</string>
+    <string name="txt_Size">Size</string>
+    <string name="txt_quant">Quantity</string>
+    <string name="total">Total:</string>
+    <string name="dollars">$$$</string>
+</resources>
